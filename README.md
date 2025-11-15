@@ -7,7 +7,7 @@ Users can upload any song, and the canvas will generate visual effects based on 
 ---
 
 ## 🚀 Live Demo
-🔗 **Demo Link:** *(Add your deployed site URL here)*
+🔗 **Demo Link:** *(https://vibe-beat-canvas.lovable.app)*
 
 ---
 
