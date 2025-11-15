@@ -1,19 +1,39 @@
-# Welcome to your Lovable Project 🚀
+# 🎵 VibeBeats – Canvas Music Visualizer
 
-## 📌 Project Information
-
-**Live URL:**  
-https://lovable.dev/projects/e9458287-0be3-4ad9-8cca-adf4fa3e17ad
-
-This repository contains the source code generated and managed through **Lovable (v0.dev)**.  
-You can continue development either directly on Lovable or using your local development environment.
+## 📌 Project Info
+VibeBeats is a web-based music visualizer that uses the **HTML5 Canvas API** to create dynamic, real-time animations that respond to audio frequencies.  
+Users can upload any song, and the canvas will generate visual effects based on beats, bass levels, and waveform patterns.
 
 ---
 
-## 🛠 How to Edit This Project
+## 🚀 Live Demo
+🔗 **Demo Link:** *(Add your deployed site URL here)*
 
-### 1️⃣ **Edit using Lovable**
-Just visit your project page:  
-👉 https://lovable.dev/projects/e9458287-0be3-4ad9-8cca-adf4fa3e17ad  
+---
+
+## ⭐ Features
+- 🎧 **Upload & Play Any Audio File**
+- 🔊 **Real-time Audio Frequency Analysis**
+- 🌈 **Dynamic Canvas Animations**
+- ⚡ **Smooth, High-Performance Rendering**
+- 🎨 **Multiple Visualizer Styles (bars, waves, circles)**
+- 📱 **Responsive Layout**
+
+---
+
+## 🧰 Tech Stack
+
+### **Frontend**
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+
+### **Web APIs Used**
+- HTML5 Canvas  
+- Web Audio API  
+
+### **Tools**
+- VS Code  
+- Live Server  
 
 ---
