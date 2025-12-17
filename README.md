@@ -24,16 +24,24 @@ Users can upload any song, and the canvas will generate visual effects based on 
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/vibe-beat-canvas/main/assets/Home.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
 ### ⚙ Music Page
-[(image Music.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/vibe-beat-canvas/main/assets/Music.jpg)
+<p align="center">
+  <img src="assets/Music.jpg" width="800"/>
+</p>
 
 ### 🎨 Playlist Page
-[(image Playlist.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/vibe-beat-canvas/main/assets/Playlist.jpg)
+<p align="center">
+  <img src="assets/Playlist.jpg" width="800"/>
+</p>
 
-### ⚙ User-playlis Page
-[(image User-playlis.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/vibe-beat-canvas/main/assets/User-playlis.jpg)
+### ⚙ User-playlist Page
+<p align="center">
+  <img src="assets/User-playlist.jpg" width="800"/>
+</p>
 
 ---
 
